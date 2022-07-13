@@ -9,12 +9,6 @@
 
 ## Example Tutorial: Data organization.
 
-### Image_data:
-
-To make this code work with your data, the MR images should have the following structure. 
-
--Patient_folder_from_center_A/Patient#/Patient#_MRsequence1.nii.gz (T2)
-
 
 ## Requirements.
 
