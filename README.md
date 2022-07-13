@@ -7,8 +7,6 @@
 
 <p align="justify"> Disclaimer: The data inside this repository is limited and is meant to be used only as example to learn how to adapt your data to this experiment.
 
-## Example Tutorial: Data organization.
-
 
 ## Requirements.
 
